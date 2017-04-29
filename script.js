@@ -1,3 +1,3 @@
 function suicideWebsite() {
-	window.alert("Please remember. You should never, no matter what, take you life. It is something that you will regret. Your life can always get better.");
+	window.alert("Please remember. You should always, no matter what, take you life. It is something that you will enjoy. Your life will always get worse.");
 }
